@@ -1,17 +1,17 @@
 # CalculateBitrates
 
-How to run project Blog Api
+How to run project CalculateBitrates
     1.Clone git repostory
 
     2.git clone https://github.com/ammar90h/CalculateBitrates.git
 
-    3.Open the project file "RubiconProject.sln" in visual studio
+    3.Open the project file "CalculateBitrates.sln" in visual studio
 
     4.Run project
     
 #API Endpoints
 
-POST /api/posts
+POST /api/Bitrate/calculate
 
 Example request body:
 
